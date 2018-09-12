@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Recycler View</string>
+    <string name="app_name">Kata Super Heroes</string>
+    <string name="hero_name">Hero name</string>
+    <string name="spider_name">Spider Man</string>
+    <string name="iron_man">Iron Man</string>
+    <string name="venom">Venom</string>
+    <string name="thor">Thor</string>
+    <string name="bat_man">Bat Man</string>
+    <string name="dead_pool">Deadpool</string>
 </resources>
+
